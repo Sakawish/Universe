@@ -8,12 +8,13 @@ SaltPlayer 表示应用
 
 | 应用名 | 对应文件名 |
 | -- | -- |
-| 椒盐音乐 | SaltPlayer |
+| 椒盐音乐 Salt Player | SaltPlayer |
 | 青盐云听 | Qinalt |
 | 心事卷轴 | EmoScroll |
 | 椒盐笔记 | SaltNote |
 | Hearusy Spectrum | HearusySpectrum |
 | Moriafly Audio Hub | MoriaflyAudioHub |
+| 椒盐音乐 Lite | SaltPlayerLite |
 
 10.0.0 表示版本
 
