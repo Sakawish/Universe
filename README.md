@@ -2,6 +2,8 @@
 
 文件在 [Releases](https://github.com/Sakawish/Universe/releases) 不定期发布
 
+最新版本在 [Latest](https://github.com/Sakawish/Universe/releases/tag/Latest) 获取
+
 更新计划查看 [路线图](https://github.com/Sakawish/Roadmap)
 
 ## 文件格式说明
